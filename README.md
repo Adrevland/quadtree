@@ -1,2 +1,2 @@
-# quadtree
+# Quadtree
 Basic Quadtree Datastructure
